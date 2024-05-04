@@ -45,6 +45,9 @@ Don't forget to use spliitter!
 ```
 And, you can use display or amor stand. but don't forget to set the billboard of display to CENTER!
 
+![mob_effect_absorption_absorption](https://github.com/toxicity188/mult-layer-display-text/assets/114675706/0ebe9dcb-9bf6-4451-8f28-729d046c512a)  
+Now, you have to modify image's alpha value to 1~254 (the greater, the higher layer.)
+
 # Result
 ![녹화_2024_05_05_01_48_15_383-min](https://github.com/toxicity188/mult-layer-display-text/assets/114675706/ae033d45-f040-486e-9943-6ce9c1cf6bc6)  
 Enjoy your multi line text display!
