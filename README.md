@@ -9,7 +9,7 @@ There's some issues in minecraft font and text display component.
 
 But, this core shader removes all of this problem!
 
-# Comparation
+# Comparison
 ![녹화_2024_05_03_10_03_28_717-min](https://github.com/toxicity188/mult-layer-display-text/assets/114675706/161e5af4-7e13-4373-9028-7ff634dc8788)  
 Normal core shader, occurring z-fighting problem.
 ![녹화_2024_05_03_10_05_19_637-min (1)](https://github.com/toxicity188/mult-layer-display-text/assets/114675706/5f367ad1-d75b-432e-a56c-a9bc9bdb40a0)  
